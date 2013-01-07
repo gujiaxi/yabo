@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">yabo</string>
-    <string name="menu_settings">Settings</string>
-	<string name="app_version">ver</string>
-	<string name="app_logo">logo</string>
-	<string name="dev_info">dev</string>
-
+    <string name="app_name">Yabo</string>
+    <string name="app_ver">v1.0</string>
+	<string name="app_info">Yet Another weiBO client</string>
+    <string name="network_error">Network Error</string>
+    <string name="weibo_counter">0</string>
+    <string name="weibo_hint">How\'s it going?</string>
+    <string name="weibo_share">Share</string>
 </resources>
