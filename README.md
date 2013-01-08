@@ -1,4 +1,4 @@
 yabo
 ====
 
-Sina weibo client
+Yet Another weiBO client
